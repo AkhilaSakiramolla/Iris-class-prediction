@@ -1,4 +1,5 @@
-# knn-from-scratch
+# Iris Data Classification
+
 Implementation of K-Nearest neighbors algorithm from scratch on Iris dataset (https://archive.ics.uci.edu/ml/datasets/iris)
 
 Problem statement:
